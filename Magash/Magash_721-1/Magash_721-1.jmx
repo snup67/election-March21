@@ -69,7 +69,7 @@
         <boolProp name="CacheManager.controlledByThread">false</boolProp>
       </CacheManager>
       <hashTree/>
-      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group" enabled="true">
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group" enabled="false">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
@@ -497,15 +497,15 @@
           </hashTree>
         </hashTree>
       </hashTree>
-      <kg.apc.jmeter.threads.SteppingThreadGroup guiclass="kg.apc.jmeter.threads.SteppingThreadGroupGui" testclass="kg.apc.jmeter.threads.SteppingThreadGroup" testname="LoadTest 440u" enabled="true">
-        <stringProp name="TestPlan.comments">Since rub from 11 slaves - 11 x 44 = 5500</stringProp>
+      <kg.apc.jmeter.threads.SteppingThreadGroup guiclass="kg.apc.jmeter.threads.SteppingThreadGroupGui" testclass="kg.apc.jmeter.threads.SteppingThreadGroup" testname="LoadTest 300u" enabled="true">
+        <stringProp name="TestPlan.comments">Since rub from 11 slaves - 11 x 33 = 330</stringProp>
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
-        <stringProp name="ThreadGroup.num_threads">440</stringProp>
+        <stringProp name="ThreadGroup.num_threads">30</stringProp>
         <stringProp name="Threads initial delay">0</stringProp>
-        <stringProp name="Start users count">40</stringProp>
-        <stringProp name="Start users count burst">40</stringProp>
+        <stringProp name="Start users count">4</stringProp>
+        <stringProp name="Start users count burst">4</stringProp>
         <stringProp name="Start users period">40</stringProp>
-        <stringProp name="Stop users count">40</stringProp>
+        <stringProp name="Stop users count">4</stringProp>
         <stringProp name="Stop users period">40</stringProp>
         <stringProp name="flighttime">300</stringProp>
         <stringProp name="rampUp">5</stringProp>
@@ -984,19 +984,19 @@
               <stringProp name="-1993889503">Memory</stringProp>
               <stringProp name="0"></stringProp>
             </collectionProp>
-            <collectionProp name="856252195">
+            <collectionProp name="-1880958319">
               <stringProp reference="../../collectionProp[2]/stringProp"/>
               <stringProp reference="../../collectionProp[2]/stringProp[2]"/>
               <stringProp name="2590131">Swap</stringProp>
               <stringProp reference="../../collectionProp[2]/stringProp[4]"/>
             </collectionProp>
-            <collectionProp name="861285983">
+            <collectionProp name="1866815702">
               <stringProp reference="../../collectionProp[2]/stringProp"/>
               <stringProp reference="../../collectionProp[2]/stringProp[2]"/>
               <stringProp name="-274342153">Network I/O</stringProp>
               <stringProp reference="../../collectionProp[2]/stringProp[4]"/>
             </collectionProp>
-            <collectionProp name="778527445">
+            <collectionProp name="1741595833">
               <stringProp reference="../../collectionProp[2]/stringProp"/>
               <stringProp reference="../../collectionProp[2]/stringProp[2]"/>
               <stringProp name="82881">TCP</stringProp>
@@ -1061,19 +1061,19 @@
               <stringProp name="-1993889503">Memory</stringProp>
               <stringProp name="0"></stringProp>
             </collectionProp>
-            <collectionProp name="-1486919387">
+            <collectionProp name="70837395">
               <stringProp reference="../../collectionProp[2]/stringProp"/>
               <stringProp reference="../../collectionProp[2]/stringProp[2]"/>
               <stringProp name="2590131">Swap</stringProp>
               <stringProp reference="../../collectionProp[2]/stringProp[4]"/>
             </collectionProp>
-            <collectionProp name="-1481885599">
+            <collectionProp name="-476355880">
               <stringProp reference="../../collectionProp[2]/stringProp"/>
               <stringProp reference="../../collectionProp[2]/stringProp[2]"/>
               <stringProp name="-274342153">Network I/O</stringProp>
               <stringProp reference="../../collectionProp[2]/stringProp[4]"/>
             </collectionProp>
-            <collectionProp name="-1564644137">
+            <collectionProp name="-601575749">
               <stringProp reference="../../collectionProp[2]/stringProp"/>
               <stringProp reference="../../collectionProp[2]/stringProp[2]"/>
               <stringProp name="82881">TCP</stringProp>
