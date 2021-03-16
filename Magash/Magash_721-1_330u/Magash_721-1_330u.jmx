@@ -500,12 +500,12 @@
       <kg.apc.jmeter.threads.SteppingThreadGroup guiclass="kg.apc.jmeter.threads.SteppingThreadGroupGui" testclass="kg.apc.jmeter.threads.SteppingThreadGroup" testname="LoadTest 330u" enabled="true">
         <stringProp name="TestPlan.comments">Since rub from 11 slaves - 11 x 33 = 330</stringProp>
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
-        <stringProp name="ThreadGroup.num_threads">330</stringProp>
+        <stringProp name="ThreadGroup.num_threads">33</stringProp>
         <stringProp name="Threads initial delay">0</stringProp>
-        <stringProp name="Start users count">40</stringProp>
-        <stringProp name="Start users count burst">40</stringProp>
+        <stringProp name="Start users count">4</stringProp>
+        <stringProp name="Start users count burst">4</stringProp>
         <stringProp name="Start users period">40</stringProp>
-        <stringProp name="Stop users count">40</stringProp>
+        <stringProp name="Stop users count">4</stringProp>
         <stringProp name="Stop users period">40</stringProp>
         <stringProp name="flighttime">300</stringProp>
         <stringProp name="rampUp">5</stringProp>
