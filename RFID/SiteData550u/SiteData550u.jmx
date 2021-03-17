@@ -983,7 +983,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\SiteData550u\Report\SQL01.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\SiteData550u\SQL01.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -1054,7 +1054,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\SiteData550u\Report\SQL02.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\SiteData550u\SQL02.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
