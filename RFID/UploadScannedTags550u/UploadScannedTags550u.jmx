@@ -30,7 +30,7 @@
           </elementProp>
           <elementProp name="LB_URL" elementType="Argument">
             <stringProp name="Argument.name">LB_URL</stringProp>
-            <stringProp name="Argument.value">http://10.50.1.10/WSElections/api</stringProp>
+            <stringProp name="Argument.value">http://10.50.1.10/WSElections_test/api</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
