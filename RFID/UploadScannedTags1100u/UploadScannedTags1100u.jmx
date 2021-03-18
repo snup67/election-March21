@@ -344,7 +344,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags2200u\FileServer.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags1100u\FileServer.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -415,7 +415,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags2200u\iis.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags1100u\iis.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -486,7 +486,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags2200u\SQL01.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags1100u\SQL01.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -557,7 +557,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags2200u\SQL02.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags1100u\SQL02.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -628,7 +628,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags2200u\LogServer.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags1100u\LogServer.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -699,7 +699,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags2200u\ReportServer.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\UploadScannedTags1100u\ReportServer.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
