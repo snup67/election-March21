@@ -131,7 +131,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ContainersMetadata/ItemsData/ContainersMetadata?type=9&amp;siteID=${SiteID}</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainersMetadata?type=9&amp;siteID=${SiteID}</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -151,7 +151,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainersMetadata?type=10&amp;siteID=${SiteID}</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainersMetadata?type=10&amp;siteID=${SiteID}</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -255,7 +255,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ContainersMetadata/ItemsData/ContainersMetadata?type=9&amp;siteID=${SiteID}</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainersMetadata?type=9&amp;siteID=${SiteID}</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -275,7 +275,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainersMetadata?type=10&amp;siteID=${SiteID}</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainersMetadata?type=10&amp;siteID=${SiteID}</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
