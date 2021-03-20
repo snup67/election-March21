@@ -194,7 +194,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=8</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=8</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -214,7 +214,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=17&amp;siteID=1&amp;ContainerID=9</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=1&amp;ContainerID=9</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -234,7 +234,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=16&amp;siteID=7&amp;ContainerID=3423</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=7&amp;ContainerID=3423</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -254,7 +254,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=17&amp;siteID=7&amp;ContainerID=3822</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=7&amp;ContainerID=3822</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -274,7 +274,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=16&amp;siteID=14&amp;ContainerID=7947</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=14&amp;ContainerID=7947</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -294,7 +294,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=17&amp;siteID=14&amp;ContainerID=7949</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=14&amp;ContainerID=7949</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -314,7 +314,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=16&amp;siteID=18&amp;ContainerID=10941</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=18&amp;ContainerID=10941</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -334,7 +334,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=17&amp;siteID=18&amp;ContainerID=10942</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=18&amp;ContainerID=10942</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -347,7 +347,7 @@
         </HTTPSamplerProxy>
         <hashTree/>
       </hashTree>
-      <kg.apc.jmeter.threads.SteppingThreadGroup guiclass="kg.apc.jmeter.threads.SteppingThreadGroupGui" testclass="kg.apc.jmeter.threads.SteppingThreadGroup" testname="LoadTest 550uVU" enabled="true">
+      <kg.apc.jmeter.threads.SteppingThreadGroup guiclass="kg.apc.jmeter.threads.SteppingThreadGroupGui" testclass="kg.apc.jmeter.threads.SteppingThreadGroup" testname="LoadTest 550u" enabled="true">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <stringProp name="ThreadGroup.num_threads">50</stringProp>
         <stringProp name="Threads initial delay">0</stringProp>
@@ -378,7 +378,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=8</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=8</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -398,7 +398,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=17&amp;siteID=1&amp;ContainerID=9</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=1&amp;ContainerID=9</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -418,7 +418,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=16&amp;siteID=7&amp;ContainerID=3423</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=7&amp;ContainerID=3423</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -438,7 +438,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=17&amp;siteID=7&amp;ContainerID=3822</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=7&amp;ContainerID=3822</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -458,7 +458,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=16&amp;siteID=14&amp;ContainerID=7947</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=14&amp;ContainerID=7947</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -478,7 +478,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=17&amp;siteID=14&amp;ContainerID=7949</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=14&amp;ContainerID=7949</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -498,7 +498,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=16&amp;siteID=18&amp;ContainerID=10941</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=18&amp;ContainerID=10941</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -518,7 +518,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}//ItemsData/ContainerData?type=17&amp;siteID=18&amp;ContainerID=10942</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=18&amp;ContainerID=10942</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
