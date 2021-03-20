@@ -657,7 +657,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\PortionReport20u\SQL02.csv</stringProp>
+          <stringProp name="filename">C:\Tools\Jenkins\workspace\RFID\PortionReport220u\SQL02.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
