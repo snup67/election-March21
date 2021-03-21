@@ -65,7 +65,7 @@
       <hashTree/>
       <CookieManager guiclass="CookiePanel" testclass="CookieManager" testname="HTTP Cookie Manager" enabled="true">
         <collectionProp name="CookieManager.cookies"/>
-        <boolProp name="CookieManager.clearEachIteration">true</boolProp>
+        <boolProp name="CookieManager.clearEachIteration">false</boolProp>
         <boolProp name="CookieManager.controlledByThreadGroup">false</boolProp>
       </CookieManager>
       <hashTree/>
@@ -96,7 +96,7 @@
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-	&quot;Hw Number&quot; : &quot;12345&quot;&#xd;
+	&quot;HwNumber&quot; : &quot;12345&quot;&#xd;
 	}&#xd;
 </stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
@@ -185,7 +185,7 @@
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">[&quot;Hw Number&quot;, &quot;12345&quot;]&#xd;
+                <stringProp name="Argument.value">[&quot;HwNumber&quot;, &quot;12345&quot;]&#xd;
 </stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
