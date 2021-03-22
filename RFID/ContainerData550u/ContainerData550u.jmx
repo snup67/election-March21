@@ -34,7 +34,7 @@
           </elementProp>
           <elementProp name="LB_URL" elementType="Argument">
             <stringProp name="Argument.name">LB_URL</stringProp>
-            <stringProp name="Argument.value">http://10.50.1.10/WSElections/api</stringProp>
+            <stringProp name="Argument.value">http://10.50.1.10/WSElections_test/api</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="SiteID_1" elementType="Argument">
@@ -194,7 +194,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=8</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=800004</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -206,7 +206,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxOriginalProtocol  </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Jerusalem-17" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Jerusalem-16-2" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -214,7 +214,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=1&amp;ContainerID=9</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=800008</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -226,7 +226,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxProtocolCopy</stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Haifa-16" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Jerusalem-16-3" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -234,7 +234,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=7&amp;ContainerID=3423</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=800002</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -246,7 +246,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxMarkingNotepad  </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Haifa-17" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Kneset -14" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -254,7 +254,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=7&amp;ContainerID=3822</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=14&amp;siteID=100&amp;ContainerID=41682</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -266,7 +266,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxErasureNotepad </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="TelAviv-16" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Judea 16" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -274,7 +274,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=14&amp;ContainerID=7947</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=2&amp;ContainerID=800011</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -286,7 +286,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxSecurityEnv </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="TelAviv-17" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Judea2-16-2" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -294,7 +294,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=14&amp;ContainerID=7949</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=2&amp;ContainerID=800010</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -306,7 +306,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxSecurityEnv </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="BeerSheva-16" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Judea -16" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -314,7 +314,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=18&amp;ContainerID=10941</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=2&amp;ContainerID=800015</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -326,7 +326,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxSecurityEnv </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="BeerSheva-17" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Judea -16-2" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -334,7 +334,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=18&amp;ContainerID=10942</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=2&amp;ContainerID=800013</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -378,7 +378,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=8</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=800004</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -390,7 +390,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxOriginalProtocol  </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Jerusalem-17" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Jerusalem-16-2" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -398,7 +398,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=1&amp;ContainerID=9</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=800008</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -410,7 +410,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxProtocolCopy</stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Haifa-16" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Jerusalem-16-3" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -418,7 +418,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=7&amp;ContainerID=3423</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=1&amp;ContainerID=800002</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -430,7 +430,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxMarkingNotepad  </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Haifa-17" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Kneset -14" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -438,7 +438,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=7&amp;ContainerID=3822</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=14&amp;siteID=100&amp;ContainerID=41682</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -450,7 +450,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxErasureNotepad </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="TelAviv-16" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Judea 16" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -458,7 +458,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=14&amp;ContainerID=7947</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=2&amp;ContainerID=800011</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -470,7 +470,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxSecurityEnv </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="TelAviv-17" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Judea2-16-2" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -478,7 +478,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=14&amp;ContainerID=7949</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=2&amp;ContainerID=800010</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -490,7 +490,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxSecurityEnv </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="BeerSheva-16" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Judea -16" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -498,7 +498,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=18&amp;ContainerID=10941</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=2&amp;ContainerID=800015</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -510,7 +510,7 @@
           <stringProp name="TestPlan.comments">site=Jerusalem, ContaierType=BoxSecurityEnv </stringProp>
         </HTTPSamplerProxy>
         <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="BeerSheva-17" enabled="true">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Judea -16-2" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -518,7 +518,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=17&amp;siteID=18&amp;ContainerID=10942</stringProp>
+          <stringProp name="HTTPSampler.path">${LB_URL}/ItemsData/ContainerData?type=16&amp;siteID=2&amp;ContainerID=800013</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
