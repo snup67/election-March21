@@ -37,57 +37,6 @@
             <stringProp name="Argument.value">http://10.50.1.10/WSElections_test/api</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
-          <elementProp name="SiteID_1" elementType="Argument">
-            <stringProp name="Argument.name">SiteID_1</stringProp>
-            <stringProp name="Argument.value">1</stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-            <stringProp name="Argument.desc">Jerusalem </stringProp>
-          </elementProp>
-          <elementProp name="SiteID_7" elementType="Argument">
-            <stringProp name="Argument.name">SiteID_7</stringProp>
-            <stringProp name="Argument.value">7</stringProp>
-            <stringProp name="Argument.desc">Haifa </stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
-          <elementProp name="SiteID_14" elementType="Argument">
-            <stringProp name="Argument.name">SiteID_14</stringProp>
-            <stringProp name="Argument.value">14</stringProp>
-            <stringProp name="Argument.desc">TelAviv </stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
-          <elementProp name="SiteID_18" elementType="Argument">
-            <stringProp name="Argument.name">SiteID_18</stringProp>
-            <stringProp name="Argument.value">18</stringProp>
-            <stringProp name="Argument.desc">BeerSheva </stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
-          <elementProp name="ContainerID_8" elementType="Argument">
-            <stringProp name="Argument.name">ContainerID_8</stringProp>
-            <stringProp name="Argument.value">8</stringProp>
-            <stringProp name="Argument.desc">  </stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
-          <elementProp name="ContainerID_90" elementType="Argument">
-            <stringProp name="Argument.name">ContainerID_90</stringProp>
-            <stringProp name="Argument.value">90</stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
-          <elementProp name="ContainerID_4953" elementType="Argument">
-            <stringProp name="Argument.name">ContainerID_4953</stringProp>
-            <stringProp name="Argument.value">4953</stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
-          <elementProp name="ContainerID_63163" elementType="Argument">
-            <stringProp name="Argument.name">ContainerID_63163</stringProp>
-            <stringProp name="Argument.value">63163</stringProp>
-            <stringProp name="Argument.desc"> </stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
-          <elementProp name="ContainerID_71820" elementType="Argument">
-            <stringProp name="Argument.name">ContainerID_71820</stringProp>
-            <stringProp name="Argument.value">71620</stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
         </collectionProp>
       </Arguments>
       <hashTree/>
@@ -353,9 +302,9 @@
         <stringProp name="Threads initial delay">0</stringProp>
         <stringProp name="Start users count">5</stringProp>
         <stringProp name="Start users count burst">5</stringProp>
-        <stringProp name="Start users period">60</stringProp>
+        <stringProp name="Start users period">30</stringProp>
         <stringProp name="Stop users count">5</stringProp>
-        <stringProp name="Stop users period">60</stringProp>
+        <stringProp name="Stop users period">30</stringProp>
         <stringProp name="flighttime">300</stringProp>
         <stringProp name="rampUp">5</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
