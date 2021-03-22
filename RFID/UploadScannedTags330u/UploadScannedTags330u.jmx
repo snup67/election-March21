@@ -707,12 +707,11 @@
     &quot;ScanedTime&quot;: &quot;2021-03-23T18:25:43.511Z&quot;,&#xd;
     &quot;operationType&quot;: 3,&#xd;
     &quot;DeviceID&quot;: &quot;123&quot;,&#xd;
-    &quot;ScannedTags&quot;: [{&quot;ItemRFID&quot;: &quot;11111&quot;,&quot;ItemStatus&quot; : 0},&#xd;
-                    {&quot;ItemRFID&quot;: &quot;22222&quot;,&quot;ItemStatus&quot; : 0},&#xd;
-                    {&quot;ItemRFID&quot;: &quot;33333&quot;,&quot;ItemStatus&quot; : 1}]&#xd;
+    &quot;ScannedTags&quot;: [{&quot;ItemRFID&quot;: &quot;1&quot;,&quot;ItemStatus&quot; : 0},&#xd;
+                    {&quot;ItemRFID&quot;: &quot;2&quot;,&quot;ItemStatus&quot; : 0},&#xd;
+                    {&quot;ItemRFID&quot;: &quot;3&quot;,&quot;ItemStatus&quot; : 1}]&#xd;
 }&#xd;
 ]&#xd;
-&#xd;
 </stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
